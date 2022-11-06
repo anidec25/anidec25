@@ -7,6 +7,8 @@
 
 - 🌱 Learning Data Science and Machine Learning with  **Scaler Academy**
 
+- 👨‍💻 Tableau Projects:[https://public.tableau.com/app/profile/aniruddha.mukherjee3332]
+
 - 👨‍💻 All of my projects are available at [https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-](https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-)
 
 - 💬 Ask me about **Python , Pandas, NumPy , Matplotlib, Seaborn , skLearn ,MySQL , Power BI , Tableau , Probability , Math , Statistics**
