@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **maniruddha25@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aniruddha95/]
-  (https://www.linkedin.com/in/aniruddha95/)
+- 📄 Know about my experiences https://www.linkedin.com/in/aniruddha95/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
