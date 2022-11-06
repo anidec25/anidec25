@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/anidec25/ML-Projects
 
-- 💬 Ask me about **Python , Pandas, NumPy , Matplotlib, Seaborn , skLearn ,MySQL , Power BI , Tableau , Probability , Math , Statistics**
+- 💬 Ask me about **Python , Pandas, NumPy , Matplotlib, Seaborn , skLearn ,MySQL , Tableau , Probability , Math , Statistics**
 
 - 📫 How to reach me **maniruddha25@gmail.com**
 
