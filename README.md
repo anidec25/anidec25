@@ -3,8 +3,6 @@
 <h1 align="left">Hi 👋, I'm Aniruddha Mukherjee</h1>
 <h3 align="left">Keen about Data Science and Machine Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anidec25&label=Profile%20views&color=0e75b6&style=flat" alt="anidec25" /> </p>
-
 ![](https://komarev.com/ghpvc/?username=anidec25&style=flat-square)
 
 - 🌱 Learning Data Science and Machine Learning with  **Scaler Academy**
