@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="left">Hi 👋, I'm Aniruddha Mukherjee</h1>
 <h3 align="left">Keen about Data Science and Machine Learning.</h3>
 
