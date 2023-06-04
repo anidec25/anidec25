@@ -3,7 +3,10 @@
 
 ![](https://komarev.com/ghpvc/?username=anidec25&style=flat-square)
 
+
 - 🌱 Learning Data Science and Machine Learning with  **Scaler Academy**
+
+- Currently Learning Object Segmentation.
 
 - 👨‍💻 Tableau Projects: https://public.tableau.com/app/profile/aniruddha.mukherjee3332
 
