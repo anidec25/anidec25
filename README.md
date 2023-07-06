@@ -6,8 +6,6 @@
 
 - 🌱 Learning Data Science and Machine Learning with  **Scaler Academy**
 
-- Currently Learning Object Segmentation.
-
 - 👨‍💻 Tableau Projects: https://public.tableau.com/app/profile/aniruddha.mukherjee3332
 
 - 👨‍💻 All of my projects are available at https://github.com/anidec25/ML-Projects
