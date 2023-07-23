@@ -3,6 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=anidec25&style=flat-square)
 
+- 🌱 Currently getting my hands on NLP.
 
 - 🌱 Learning Data Science and Machine Learning with  **Scaler Academy**
 
