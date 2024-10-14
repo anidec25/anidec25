@@ -3,10 +3,10 @@
 
 ![](https://komarev.com/ghpvc/?username=anidec25&style=flat-square)
 
-- 🌱 Currently getting my hands on NLP.
+- 🌱 Swimming in the Ocean of NLP and LLMs
 
-- 🌱 Learning Data Science and Machine Learning with  **Scaler Academy**
-
+- 🌱 Teaching data science to 100+ aspiring professionals at **Scaler Academy**, providing expert guidance and personalized instruction.
+- 
 - 👨‍💻 Tableau Projects: https://public.tableau.com/app/profile/aniruddha.mukherjee3332
 
 - 👨‍💻 All of my projects are available at https://github.com/anidec25/ML-Projects
