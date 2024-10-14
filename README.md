@@ -4,17 +4,11 @@
 ![](https://komarev.com/ghpvc/?username=anidec25&style=flat-square)
 
 - 🌱 Swimming in the Ocean of NLP and LLMs
-
 - 🌱 Teaching data science to 100+ aspiring professionals at **Scaler Academy**, providing expert guidance and personalized instruction.
-- 
 - 👨‍💻 Tableau Projects: https://public.tableau.com/app/profile/aniruddha.mukherjee3332
-
 - 👨‍💻 All of my projects are available at https://github.com/anidec25/ML-Projects
-
 - 💬 Ask me about **Python , Pandas, NumPy , Matplotlib, Seaborn , skLearn ,MySQL , Tableau , Probability , Math , Statistics**
-
 - 📫 How to reach me **maniruddha25@gmail.com**
-
 - 📄 Know about my experiences https://www.linkedin.com/in/aniruddha95/
 
 <h3 align="left">Connect with me:</h3>
